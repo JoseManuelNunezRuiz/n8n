@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "n8n"
+    "start": "npx n8n"
   },
   "keywords": [],
   "author": "",
